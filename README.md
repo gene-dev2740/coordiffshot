@@ -29,7 +29,7 @@ pienv install
 
 ### Github Clone
 ```bash
-git clone xxxx
+git clone git@github.com:gene-dev2740/coordiffshot.git
 cd coordiffshot
 ```
 
